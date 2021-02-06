@@ -5,7 +5,7 @@ int main()
 
 	printf("hello£¬world");
                 printf("my_first_commit");
-	printf("vers");
+	printf("version1.0");
 	return 0;
 
 }
